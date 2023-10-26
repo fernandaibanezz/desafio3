@@ -82,6 +82,6 @@ public class Libro {
 			System.out.println("Error: Debes ingresar un dato valido.");
 
 		}
-//caca
+
 	}
 }
